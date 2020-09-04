@@ -1,0 +1,8 @@
+<Toast_Notif>
+	<Notif_Folder>C:\ProgramData\intune_notif</Notif_Folder>
+	<Notif_Title>Quick notification</Notif_Title>
+	<Notif_Text>I am a notification executed in System context</Notif_Text>
+	<Notif_Attribution>Syst and Deploy</Notif_Attribution>
+	<Notif_Picture>logo_header.png</Notif_Picture>
+	<Notif_Scenario>short</Notif_Scenario>
+</Toast_Notif>
